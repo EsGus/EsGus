@@ -8,14 +8,31 @@
 - 🔭 I’m currently working on **Web Development**
 - 🌱 I’m currently learning **Data Science & Kotlin**
 - 💬 Ask me about **PHP, Laravel, Android**
-- 📫 How to reach me: <a href="https://instagram.com/estha130">@estha130</a>
+<p align="center">
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=EsGus&show_icons=true&theme=radical" alt="EsGus Stats" height="180" />
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EsGus&layout=compact&theme=radical&hide=html,css" alt="EsGus Languages" height="180" />
-</div>
+[![](https://visitcount.itsvg.in/api?id=EsGus&icon=0&color=0)](https://visitcount.itsvg.in)
 
+## 🌐 Socials:
+
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/estha130)
+
+[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:estagusti@gmail.com) 
+
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=EsGus&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=EsGus&theme=shadow_blue&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=EsGus&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+</p>
+
+---
+[![](https://visitcount.itsvg.in/api?id=EsGus&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 <h3 align="left">💻 Tech Stack</h3>
 
 <p align="center">
