@@ -5,49 +5,34 @@
   <em>A passionate developer from Indonesia exploring the world of code.</em>
 </p>
 
-- 🔭 I’m currently working on **Web Development**
-- 🌱 I’m currently learning **Data Science & Kotlin**
-- 💬 Ask me about **PHP, Laravel, Android**
 <p align="center">
-
-[![](https://visitcount.itsvg.in/api?id=EsGus&icon=0&color=0)](https://visitcount.itsvg.in)
-
-## 🌐 Socials:
-
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/estha130)
-
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:estagusti@gmail.com) 
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=EsGus&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=EsGus&theme=shadow_blue&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=EsGus&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
-</p>
-
----
-[![](https://visitcount.itsvg.in/api?id=EsGus&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-<h3 align="left">💻 Tech Stack</h3>
-
-<p align="center">
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHdxb3d4bGc0NTNreDN3aGxzdThjOGQ0NnRhemd5ZDVneGtlbHltaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/NSzHiAwAcazs7dcDr9/giphy.gif" alt="coding gif" width="150" />
-</p>
-
-<p align="center">
-  <a href="https://instagram.com/estha130" target="blank">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="estha130" />
+  <a href="https://instagram.com/estha130">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="Instagram" />
   </a>
-  </p>
+  <a href="mailto:estagusti@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
+
+<div align="center">
+  <img src="https://nirzak-streak-stats.vercel.app/?user=EsGus&theme=shadow_blue&hide_border=false" alt="Streak Stats" height="180" />
+</div>
+
+<br />
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/EsGus/EsGus/output/snake.svg" alt="Snake Animation" />
+</div>
 
 <hr/>
 
-<h3 align="center">🛠 Languages and Tools</h3>
+<h3 align="center">💻 Tech Stack & Tools</h3>
+<p align="center">
+  - 🔭 I’m currently working on **Web Development** <br/>
+  - 🌱 I’m currently learning **Data Science & Kotlin** <br/>
+  - 💬 Ask me about **PHP, Laravel, Android**
+</p>
+
 <p align="center">
   <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a>
   <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a>
@@ -67,4 +52,6 @@
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>
 </p>
 
-<br/>
+<p align="center">
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHdxb3d4bGc0NTNreDN3aGxzdThjOGQ0NnRhemd5ZDVneGtlbHltaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/NSzHiAwAcazs7dcDr9/giphy.gif" alt="coding gif" width="150" />
+</p>
