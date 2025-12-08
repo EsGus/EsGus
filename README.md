@@ -10,6 +10,12 @@
 - 💬 Ask me about **PHP, Laravel, Android**
 - 📫 How to reach me: <a href="https://instagram.com/estha130">@estha130</a>
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=EsGus&show_icons=true&theme=radical" alt="EsGus Stats" height="180" />
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EsGus&layout=compact&theme=radical&hide=html,css" alt="EsGus Languages" height="180" />
+</div>
+
 <h3 align="left">💻 Tech Stack</h3>
 
 <p align="center">
